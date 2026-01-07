@@ -15,6 +15,7 @@ A Flutter application for creating, editing, and managing secure notes using **B
 *  Search & Sort Notes
 *  Encrypted Local Storage
 *  Session Handling on App Restart
+   When the app remains idle for 2 minutes, the user is automatically logged out and redirected to the login screen.
 *  BLoC (Event–State) Architecture
 *  Clean Architecture Structure
 *  Tablet & Phone Friendly UI
